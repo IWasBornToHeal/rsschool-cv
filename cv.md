@@ -8,3 +8,10 @@ At the moment I am no one in particular, however i aspire to get into coding and
 
 ---
 
+### Hard skills
+
+* English knowledge of b1\a2 level.
+
+#### Soft skills
+
+* I am able to handle negativity and turn it around to come up with possible alternatives.
