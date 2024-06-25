@@ -4,7 +4,7 @@
 
 ---
 
-At the moment I am no one in particular, however i aspire to get into coding and learn things. I can freely speak in Russian and English. I am quite dedicated and communicative person with some experience when working with other people.
+At the moment I am no one in particular, however i aspire to get into coding and learn things. I can freely speak in Russian and English. I am quite dedicated and communicative person with some experience when working with other people. I love music and have a decent amount of healthy hobbies.
 
 ---
 
