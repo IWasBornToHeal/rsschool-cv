@@ -22,6 +22,9 @@ body {
 .contacts{
   list-style: none;
 }
+.skills {
+  list-style: none;
+}
 h1 {
   color: black;
   text-align: center;
