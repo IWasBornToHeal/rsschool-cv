@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: lightblue;
+  font-family: 'Roboto', sans-serif;
+  min-height: 100vh;  margin: 0; padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+ }
+ .nav-list {
+  list-style: none;
+  align-items: center;
+  padding: 0 20px;
+  line-height: 25px;
+}
+.lang-list {
+  list-style: none;
+}
+.contacts{
+  list-style: none;
+}
+.skills {
+  list-style: none;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+p {
+  
+  font-size: 1rem;
+}
